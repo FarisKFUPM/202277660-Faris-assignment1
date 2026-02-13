@@ -30,11 +30,11 @@ assignment-1/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/id-name-assignment1.git
+    git clone https://github.com/FarisKFUPM/202277660-Faris-assignment1.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd id-name-assignment1
+    cd 202277660-Faris-assignment1
     ```
 3.  **Open `index.html` in your browser:**
     - You can simply double-click the file to open it.

@@ -48,6 +48,7 @@ The project is static and can be deployed easily to platforms like GitHub Pages,
 1.  Go to the repository settings on GitHub.
 2.  Navigate to the "Pages" section.
 3.  Select the `main` branch as the source and save.
+4.  Your site will be live at: `https://FarisKFUPM.github.io/202277660-Faris-assignment1/`
 
 ## AI Usage
 
